@@ -32,7 +32,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 - Z-Score Standardization was crucial to prevent skewed model outcomes, particularly in cases where predictor values varied significantly in magnitude.
 
-### Tools and Methods
+### Methods
 
 Regularization techniques, involving adjustments to the box constraint (C) and kernel scale (gamma), were employed to minimize error and control model complexity. Optimal parameters were determined through testing various box constraints ranging from 0.001 to 5.0 and gamma values ranging from 0.05 to 3.0, with the most effective model achieved at a box constraint of 1.0 and a gamma value of 0.8. This regularization process highlighted Glucose, Diabetes Pedigree Function, and BMI as significant predictors for diabetes diagnosis. 
 
