@@ -69,6 +69,8 @@ plt.ylabel('True Positive Rate')
 plt.legend()
 plt.show()
 ```
+<img width="490" alt="Screen Shot 2024-04-03 at 12 45 38 PM" src="https://github.com/sarahkpree/Diabetes_Diagnosis/assets/61251211/85928fcd-6826-415a-ba15-682499bb806d">
+
 
 ### Limitations
 
